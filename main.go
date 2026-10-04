@@ -1,12 +1,12 @@
 package main
 
 import (
-	"example/arrays"
-	"example/controlstatements"
-	"example/datatypes"
-	"example/maps"
-	"example/operations"
-	"example/slices"
+	"github.com/karthikkunal/golang-basics/arrays"
+	"github.com/karthikkunal/golang-basics/controlstatements"
+	"github.com/karthikkunal/golang-basics/datatypes"
+	"github.com/karthikkunal/golang-basics/maps"
+	"github.com/karthikkunal/golang-basics/operations"
+	"github.com/karthikkunal/golang-basics/slices"
 	"fmt"
 )
 
